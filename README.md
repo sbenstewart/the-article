@@ -3,7 +3,7 @@ Cryptonomicon bracelet abstraction as dog tag.
 
 # the-webpage
 
-[The webpage](https://sbenstewart.github.io/the-article/) has shows the 3D view of the model. Please give the page some time to load. Given enough time, you will see a page similar to the image below.
+[The webpage](https://sbenstewart.github.io/the-article/) has shows the 3D view of the dog tag. Please give the page some time to load. Given enough time, you will see a page similar to the image below.
 
 ![the-webpage](images/the-webpage.gif)
 
@@ -20,34 +20,31 @@ The text excerpts from the book are displayed within the snippet tags.
 
 ## the-bracelet
 
-```
-Anywhere else, the bracelets would mean that John and Tom were suffering from some sort of life-threatening condition, such as an allergy to common antibiotics. A medic hauling them out of a wrecked car would see the bracelet and follow the instructions. But this is Silicon Valley and different rules apply.
-```
+
+> Anywhere else, the bracelets would mean that John and Tom were suffering from some sort of life-threatening condition, such as an allergy to common antibiotics. A medic hauling them out of a wrecked car would see the bracelet and follow the instructions. But this is Silicon Valley and different rules apply.
+
 ## the-text
 
-```
-The bracelets say, on one side:
+
+> The bracelets say, on one side:
 IN CASE OF DEATH SEE REVERSE FOR BIOSTASIS PROTOCOL FOLLOW INSTRUCTIONS COLLECT REWARD $100,000
 and on the other:
-CALL NOW FOR INSTRUCTIONS I-800-NNN-NNNN
+CALL NOW FOR INSTRUCTIONS 1-800-NNN-NNNN
 PUSH 50,000 U HEPARIN IV AND DO CPR WHILE COOLING WITH ICE TO 10C.KEEP PH 7.5
 NO AUTOPSY OR EMBALMING 
-```
 
 ## the-reason
 
-```
-It is a recipe for freezing a dead, or nearly dead, person. People who wear this bracelet believe that, if this recipe is followed, the brain and other delicate tissues can be iced without destroying them. A few decades down the line, when nanotechnology has made it possible to be immortal, they hope to be thawed out. John Cantrell and Tom Howard believe that there is a reasonable chance that they will still be having conversations with each other a million years from now.
-```
+> It is a recipe for freezing a dead, or nearly dead, person. People who wear this bracelet believe that, if this recipe is followed, the brain and other delicate tissues can be iced without destroying them. A few decades down the line, when nanotechnology has made it possible to be immortal, they hope to be thawed out. John Cantrell and Tom Howard believe that there is a reasonable chance that they will still be having conversations with each other a million years from now.
 
 ## the-adaptaion
 
-The bracelets might be cool. But as engineers who spend mush time on computers, these bracelets would get into the way of the hands on the keyboard. And so, we might need another type of article (in this case a dogtag) instead of the bracelet.
+The bracelets might be cool. But as an  engineer who spends much time on computers, these bracelets would get into the way of my hands on the keyboard. And so, I might need another type of article (in this case a dogtag) instead of the bracelet.
 
 The changes made are
-1. Dog tag
-2. Phone number updated
-3. Reward in Indian Rupees
+1. Bracelet changed to Dog tag
+2. Phone number updated from 1-800-NNN-NNNN to +91-9489408090
+3. Reward in Indian Rupees from USD
 
 The bracelet has been abstracted as the-article, which can be any object that has the text engraved on it.
 
