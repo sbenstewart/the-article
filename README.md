@@ -37,7 +37,7 @@ NO AUTOPSY OR EMBALMING
 
 > It is a recipe for freezing a dead, or nearly dead, person. People who wear this bracelet believe that, if this recipe is followed, the brain and other delicate tissues can be iced without destroying them. A few decades down the line, when nanotechnology has made it possible to be immortal, they hope to be thawed out. John Cantrell and Tom Howard believe that there is a reasonable chance that they will still be having conversations with each other a million years from now.
 
-## the-adaptaion
+## the-adaptation
 
 The bracelets might be cool. But as an  engineer who spends much time on computers, these bracelets would get into the way of my hands on the keyboard. And so, I might need another type of article (in this case a dogtag) instead of the bracelet.
 
